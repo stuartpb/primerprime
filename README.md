@@ -31,7 +31,7 @@ This document is formatted as Markdown with footnote syntax.
 ## Introduction
 
 Computers are more of a story than a science. Programming is less about
-understanding complex mathematical theores than it is about knowing why people
+understanding complex mathematical theories than it is about knowing why people
 made the weird decisions that shaped every interaction we have with computers
 to this day.
 
@@ -62,4 +62,5 @@ Here are the lessons of this story that are relevant today:
 
 The two most influential developments of the nineteenth century on modern
 computers would be much more pedestrian: the typewriter and the telegraph.
+
 
