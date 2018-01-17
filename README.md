@@ -24,7 +24,7 @@ Since I'm writing this as a text document on GitHub, if you read this and
 notice that I've got something rather wrong, you can suggest an edit by
 submitting a GitHub pull request, or just email me at:
 
-<stuart@testtrack4.com>
+<s@stuartpb.com>
 
 This document is formatted as Markdown with footnote syntax.
 
